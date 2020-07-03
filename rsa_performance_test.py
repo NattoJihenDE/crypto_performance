@@ -1,7 +1,6 @@
 #  Copyright (c) 2019  Nico Vinzenz
 """
 Python script to measure the average execution time of cryptographic primitives.
-Requires: pycryptodome
 """
 
 from timeit import default_timer as timer
